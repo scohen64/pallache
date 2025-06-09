@@ -12,7 +12,7 @@ It supports embedded images, audio, and video, along with Leaflet TileLayer and 
 
 ## Create Your Own Migration Path and Send Us the Link to Upload Into the World Sephardic Database
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
-- When you finish, send us the link to shaicohen@miami.edu. 
+- When done, send us the link to shaicohen@miami.edu. 
 
 #### Geocode your address data with Google Sheets add-on
 To geocode (find latitude and longitude coordinates), we recommend installing the free [Geocoding by SmartMonkey add-on for Google Sheets](https://gsuite.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312). Insert your addresses in place of the samples in the Geocoding Details tab, then use Add-Ons > Geocoding > Geocode Details menu. Learn more in *Hands-On Data Visualization* https://handsondataviz.org/geocode.html
@@ -22,10 +22,8 @@ To geocode (find latitude and longitude coordinates), we recommend installing th
   - OR
 - Get your own Google Sheets API Key to insert into `google-doc-url.js`
 
-See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
-
 ## Credits (and licenses)
-This project is part of the Sephardi Spaces Project at the University of Miami, developed by [Shai Cohen](https://www.linkedin.com/in/shai-cohen-7133052a/). The project explores the histories, migrations, and cultural heritage of Sephardi communities through digital tools and public humanities.
+This project is part of the *Sephardi Spaces Project* at the University of Miami, developed by [Shai Cohen](https://www.linkedin.com/in/shai-cohen-7133052a/). The project explores the histories, migrations, and cultural heritage of Sephardi communities through digital tools and public humanities.
 
 © Sephardi Spaces – University of Miami.
 Content is shared under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0), unless otherwise noted.
