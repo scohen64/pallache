@@ -17,8 +17,6 @@ It supports embedded images, audio, and video, along with Leaflet TileLayer and 
 #### Geocode your address data with Google Sheets add-on
 To geocode (find latitude and longitude coordinates), we recommend installing the free [Geocoding by SmartMonkey add-on for Google Sheets](https://gsuite.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312). Insert your addresses in place of the samples in the Geocoding Details tab, then use Add-Ons > Geocoding > Geocode Details menu. Learn more in *Hands-On Data Visualization* https://handsondataviz.org/geocode.html
 
-![Geocoding](geocode.png)
-
 #### To finalize your map, you need to either:
 - Download each Google Sheets tab as a CSV file and upload into a `csv` subfolder in your GitHub repo
   - OR
@@ -27,7 +25,7 @@ To geocode (find latitude and longitude coordinates), we recommend installing th
 See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
 
 ## Credits (and licenses)
-This project is part of the Sephardi Spaces Project at the University of Miami, which explores the histories, migrations, and cultural heritage of Sephardi communities through digital tools and public humanities.
+This project is part of the Sephardi Spaces Project at the University of Miami, developed by [Shai Cohen](https://www.linkedin.com/in/shai-cohen-7133052a/). The project explores the histories, migrations, and cultural heritage of Sephardi communities through digital tools and public humanities.
 
 © Sephardi Spaces – University of Miami.
 Content is shared under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0), unless otherwise noted.
