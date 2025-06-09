@@ -1,4 +1,4 @@
-# Leaflet Storymaps with Google Sheets
+# Paths of Memory: A Sephardi Migration Story Map
 This repository documents Sephardi migration paths using an interactive Leaflet story map.
 The map integrates a linked Google Sheets template and scrolling narrative to visualize locations, movements, and community histories.
 It supports embedded images, audio, and video, along with Leaflet TileLayer and GeoJSON overlays to enhance geographic and cultural context.
