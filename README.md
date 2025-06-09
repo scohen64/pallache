@@ -3,7 +3,7 @@ This repository documents Sephardi migration paths using an interactive Leaflet 
 The map integrates a linked Google Sheets template and scrolling narrative to visualize locations, movements, and community histories.
 It supports embedded images, audio, and video, along with Leaflet TileLayer and GeoJSON overlays to enhance geographic and cultural context.
 
-🔗 Explore the live project here:[[https://sepharad.miami.edu](https://sepharad.miami.edu/) 
+🔗 Explore the live project here: [https://sepharad.miami.edu](https://sepharad.miami.edu/) 
 
 
 ## Live links (replace with your own)
